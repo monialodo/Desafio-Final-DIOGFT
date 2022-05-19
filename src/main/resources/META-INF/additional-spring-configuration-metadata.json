@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "springdoc",
+      "type": "java.lang.String",
+      "description": "Description for springdoc."
+    },
+    {
+      "name": "sprindoc.swagger-ui.config-url",
+      "type": "java.lang.String",
+      "description": "Description for sprindoc.swagger-ui.config-url."
+    }
+  ] }

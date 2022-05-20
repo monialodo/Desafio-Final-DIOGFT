@@ -7,6 +7,8 @@
 
 
 <p> Esse projeto fornece uma API para cadastro e busca de restaurantes consumindo a API ViaCEP para cadastro de endereço  </p>
+<p> A ViaCEP fornece endereço completo e dados do IBGE como código do município a partir do cadastro do CEP  </p>
+
 
 
 ### Features
